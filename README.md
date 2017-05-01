@@ -18,9 +18,9 @@ npm server.js
 
 ## Contributors
 
-This project can ♥‿♥ and edited, feel free.
+This project can be ♥‿♥ and edited, feel free.
 
-## License
+## Licenses
 
 ```shell
 
